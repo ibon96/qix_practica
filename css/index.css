@@ -1,0 +1,19 @@
+.container {
+    width: 640px;
+    height: 480px;
+    display: flex;
+    background-color: #4A365E; 
+}
+
+#canvas,#grid {
+    border:1px solid #000000;
+}
+
+#debug {
+    /* margin: 0px 0px 0px 20px; */
+    width: 640px;
+    height: 480px;
+    border:1px solid #ff0000;
+    border-width: 1px;
+  }
+
